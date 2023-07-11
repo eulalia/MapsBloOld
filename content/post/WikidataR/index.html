@@ -1,0 +1,24 @@
+---
+title: "Mapping wikiData"
+author: "Eulalia"
+date: '2023-06-27'
+categories: R
+tags:
+- SPARQL
+- wikiData
+---
+
+
+
+<p>In this post I will:</p>
+<ul>
+<li><p>make an SPARQL query to download the list of Nuclear Power Plants from the wikidata site using the WikidataQueryServiceR package.</p></li>
+<li><p>by running wikidataR::find_item(“Nuclear Power Plant”) we obtain 10 wikidata items for which the description contains the specified search term. We can then find from the description of the first item in the list that this is the one we are interested in .</p></li>
+<li><p>`<code>NPP_id[[1]]$description</code>`. So we can proceed querying the wikipedia for the properties of the item we are interested in.</p></li>
+<li><p>This is the data we have downloaded ```<code>dplyr::tibble(nr)</code>```</p></li>
+<li><p>prepare a map showing the location of the downloaded nuclear plants and their status</p></li>
+<li><p>So the map can also show the Name and the Capacity in addition to the location and status as mentioned above</p></li>
+</ul>
+<p>#You can also embed images.
+[Here (fig:NuclearReactors)] you can see the Nuclear Reactors world map</p>
+<p>See [here (fig:Di6Px)] for an example of an image of an interactive map in Flourish</p>

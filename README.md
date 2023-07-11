@@ -1,2 +1,2 @@
-# MapsBlogTest
-This is the blog space to share and work on my maps
+# MapsBlog
+This is the blog space to share work on my maps
