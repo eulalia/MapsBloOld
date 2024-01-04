@@ -1,7 +1,7 @@
 ---
 title: "Mapping wikiData"
 author: "Eulalia"
-date: '2023-06-27'
+date: "2023-06-27"
 categories: R
 tags:
 - SPARQL
@@ -34,6 +34,7 @@ source("NucleaReactors.R")
 
 
 #You can also embed images. 
-[Here (fig:NuclearReactors)] you can see the Nuclear Reactors world map
+![here (fig:NuclearReactors)] you can see the Nuclear Reactors world map
 
-See [here (fig:Di6Px)] for an example of an image of an interactive map in Flourish
+See ![here (fig:Di6Px)] for an example of an image of an interactive map in Flourish
+<iframe title="Functional urban areas that have grown or not in the last years" aria-label="Map" id="datawrapper-chart-Di6Px" src="https://datawrapper.dwcdn.net/Di6Px/2/" scrolling="no" frameborder="0" style="border: none;" width="644" height="817"></iframe> 
