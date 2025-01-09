@@ -164,7 +164,7 @@ NRmap <- ggplot(wm) +
   labs(x=NULL,
        y=NULL,
        title = "Nuclear reactors by status and capacity",
-       subtitle = "wikidata, as of july 2023") +
+       subtitle = "wikidata, as of january 2025") +
 
   #caption = default_caption
   # adds theme

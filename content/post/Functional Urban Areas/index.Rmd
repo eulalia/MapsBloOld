@@ -16,5 +16,5 @@ It shows the evolution of a number of Functional Urban Areas (FUAs) in the EU. I
  <iframe title="Functional urban areas that have grown or not in the last years" aria-label="Map" id="datawrapper-chart-Di6Px" src="https://datawrapper.dwcdn.net/Di6Px/2/" scrolling="no" frameborder="0" style="border: none;" width="644" height="817"></iframe> 
  
 
-You can also embed images. See ![here (fig:Di6Px)] for an static image of the above map:
+You can also embed images. See ![here (fig:Di6Px.png)] for an static image of the above map:
 

@@ -3,9 +3,10 @@ theme: "starter-hugo-academic"
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
 title: Academic # Website name
-baseurl: 'https://emapsblog.netlify.app/' # Website URL
-copyright: '' # MapsBlog series from J Sloane, e.g. '© {2023} Eulalia'
+baseurl: 'https://github.com/eulalia/MapsBloOld' #'https://oldmapsblog.netlify.app/' # Website URL
+copyright: '' # blogdown21 series from J Sloane, e.g. '© {2022} EuCG'
 
 ############################
 ## LANGUAGE
